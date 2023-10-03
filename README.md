@@ -1,4 +1,4 @@
-# Desafio de Projeto - ExCriando um Relatório de Vendas Elegante com Power BI - Santander Coders 2023 - DIO
+# Desafio de Projeto - Criando um Relatório de Vendas Elegante com Power BI - Santander Coders 2023 - DIO
 
 Para acessar o relatório via Power BI: [https://app.powerbi.com/links/5XutBovtZN?ctid=c80aeec9-df0b-47f4-b6c7-d2d1fa3f801b&pbi_source=linkShare](https://app.powerbi.com/links/5XutBovtZN?ctid=c80aeec9-df0b-47f4-b6c7-d2d1fa3f801b&pbi_source=linkShare)
 
